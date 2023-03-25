@@ -23,45 +23,67 @@
                 <li>
                     <a href="https://stepik.org/course/58658/info" target="_blank">Написание оконных приложений на
                         C#</a>
-                    - Знакомство с <a href="https://github.com/JosefDzeranov">Иосифом Дзерановым</a>, смена ЯП и
+                    - Знакомство с <a href="https://github.com/JosefDzeranov" target="_blank">Иосифом Дзерановым</a>,
+                    смена ЯП и
                     окончательное решение связать свою жизнь с программированием
                 </li>
                 <li>
-                    <a href="https://stepik.org/course/5482/info">Основы программирования</a>
+                    <a href="https://stepik.org/course/5482/info" target="_blank">Основы программирования</a>
                     - Вернулся на шаг назад, чтобы сделать два вперед
                 </li>
                 <li>
-                    <a href="https://stepik.org/course/84983/info">C# для продвинутых</a>
+                    <a href="https://stepik.org/course/84983/info" target="_blank">C# для продвинутых</a>
                     - Продолжение курса, как понятно из списка мой путь был не особо правильным
                 </li>
                 <li>
-                    <a href="https://stepik.org/course/87924/info">C# технология LINQ</a>
-                    - Технология которую необходим изучить всем начинающим C# разработчикам
+                    <a href="https://stepik.org/course/87924/info" target="_blank">C# технология LINQ</a>
+                    - Технология которую необходимо изучить всем начинающим C# разработчикам
                 </li>
                 <li><b>
-                    <a href="https://stepik.org/course/58659/info">WEB программирование на ASP.NET Core</a>
-                    - В данный момент прохожу данный курс, хочу познакомиться с данной технологией и создать свой проект
-                </b></li>
+                        <a href="https://stepik.org/course/58659/info" target="_blank">WEB программирование на ASP.NET
+                            Core</a>
+                        - В данный момент прохожу данный курс, хочу познакомиться с данной технологией и создать свой
+                        проект
+                    </b></li>
                 <li>
-                    <a href="https://stepik.org/course/23981/info">Алгоритмы поиска и сортировки</a>
+                    <a href="https://stepik.org/course/23981/info" target="_blank">Алгоритмы поиска и сортировки</a>
                     - Алгоритмы алгоритмы алгоритмы
                 </li>
                 <li>
-                    <a href="https://stepik.org/course/55971/info">Базовый курс по структурам данных</a>
+                    <a href="https://stepik.org/course/55971/info" target="_blank">Базовый курс по структурам данных</a>
                     - Это база
                 </li>
                 <li>
-                    <a href="https://stepik.org/course/82541/info">Поколение Python: курс для профессионалов</a>
+                    <a href="https://stepik.org/course/82541/info" target="_blank">Поколение Python: курс для
+                        профессионалов</a>
                     - Возможно вернусь когда ниубдь к Питону и завершу этот курс
                 </li>
                 <li>
-                    <a href="https://stepik.org/course/63054/info">Интерактивный тренажер по SQL</a>
+                    <a href="https://stepik.org/course/63054/info" target="_blank">Интерактивный тренажер по SQL</a>
                     - Отличный, бесплатный курс по SQL, много пррактики
                 </li>
             </ol>
         </section>
         <section>
             <h2>Сайты</h2>
+            <ol>
+                <li>
+                    <a href="https://checkio.org/">ChekiO</a>
+                    - Интерактивный тренажер Python и TypeScript
+                </li>
+                <li>
+                    <a href="https://stepik.org" target="_blank">Stepik</a>
+                    - Очень крутой сайт с кучей курсов
+                </li>
+                <li>
+                    <a href="https://htmlacademy.ru" target="_blank">HTML Academy</a>
+                    - Все о Frontend, в данный момент прохожу на этом сайте курс, изучаю основы HTML CSS JS
+                </li>
+                <li>
+                    <a href="https://projecteuler.net" target="_blank">Project Euler</a>
+                    - Решай алгоритмические задачи и будь первым в топе, уровень сложности с каждой задачей повышается
+                </li>
+            </ol>
         </section>
         <section>
             <h2>Статьи</h2>
