@@ -102,6 +102,14 @@
                 </li>
             </ol>
         </section>
+        <section>
+            <h2>Improve my coding skills</h2>
+            <ol>
+                <li>
+                    <a href="https://codestandard.net/ru/" target="_blank">Решение алгоритмов на C#</a>
+                </li>
+            </ol>
+        </section>
     </main>
     <footer>
     </footer>
